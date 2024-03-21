@@ -36,3 +36,14 @@ C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\tr
 C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\obj\Debug\net8.0\heroApi.pdb
 C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\obj\Debug\net8.0\heroApi.genruntimeconfig.cache
 C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\obj\Debug\net8.0\ref\heroApi.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\obj\Debug\net8.0\heroApi.sourcelink.json
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\bin\Debug\net8.0\Npgsql.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\heroApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll

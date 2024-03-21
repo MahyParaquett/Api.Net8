@@ -13,3 +13,4 @@ C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\tr
 C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Repository\obj\Debug\net8.0\refint\Repository.dll
 C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Repository\obj\Debug\net8.0\Repository.pdb
 C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Repository\obj\Debug\net8.0\Repository.sourcelink.json

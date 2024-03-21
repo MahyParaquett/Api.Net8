@@ -1,3 +1,4 @@
+using Repository.Connection;
 using Repository.Contracts;
 using Repository.Repositories;
 using Service.Contracts;
@@ -10,6 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddSingleton<IHeroService, HeroService>();
 builder.Services.AddSingleton<IHeroRepository, HeroRepository>();
+builder.Services.AddSingleton<IConnectionFactory, DefaultSqlConnectionFactory>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
