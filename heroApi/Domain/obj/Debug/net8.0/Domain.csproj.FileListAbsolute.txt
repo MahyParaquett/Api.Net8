@@ -1,0 +1,11 @@
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\HeroApi\heroApi\Domain\obj\Debug\net8.0\ref\Domain.dll
