@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{79C8FC9A-9854-4CFE-BB91-D39887E330AC}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\herorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79C8FC9A-9854-4CFE-BB91-D39887E330AC}|Repository\\Repository.csproj|c:\\users\\mahyaraparaquettcout\\onedrive - t2m - test to market ltda\\documentos\\treinamento-t2m\\api.net\\heroapi\\heroapi\\repository\\connection\\defaultsqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79C8FC9A-9854-4CFE-BB91-D39887E330AC}|Repository\\Repository.csproj|solutionrelative:repository\\connection\\defaultsqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{379753C2-7B17-4314-9D6D-B7F50860498B}|heroApi\\heroApi.csproj|c:\\users\\mahyaraparaquettcout\\onedrive - t2m - test to market ltda\\documentos\\treinamento-t2m\\api.net\\heroapi\\heroapi\\heroapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{379753C2-7B17-4314-9D6D-B7F50860498B}|heroApi\\heroApi.csproj|solutionrelative:heroapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47999F0-746E-47F2-81FE-4B63A929AF95}|Domain\\Domain.csproj|c:\\users\\mahyaraparaquettcout\\onedrive - t2m - test to market ltda\\documentos\\treinamento-t2m\\api.net\\heroapi\\heroapi\\domain\\model\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47999F0-746E-47F2-81FE-4B63A929AF95}|Domain\\Domain.csproj|solutionrelative:domain\\model\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{379753C2-7B17-4314-9D6D-B7F50860498B}|heroApi\\heroApi.csproj|c:\\users\\mahyaraparaquettcout\\onedrive - t2m - test to market ltda\\documentos\\treinamento-t2m\\api.net\\heroapi\\heroapi\\heroapi\\controllers\\herocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{379753C2-7B17-4314-9D6D-B7F50860498B}|heroApi\\heroApi.csproj|solutionrelative:heroapi\\controllers\\herocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{379753C2-7B17-4314-9D6D-B7F50860498B}|heroApi\\heroApi.csproj|c:\\users\\mahyaraparaquettcout\\onedrive - t2m - test to market ltda\\documentos\\treinamento-t2m\\api.net\\heroapi\\heroapi\\heroapi\\dto\\herodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{379753C2-7B17-4314-9D6D-B7F50860498B}|heroApi\\heroApi.csproj|solutionrelative:heroapi\\dto\\herodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,42 +34,40 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\HeroApi\\heroApi\\heroApi\\appsettings.json",
+              "RelativeDocumentMoniker": "heroApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\HeroApi\\heroApi\\heroApi\\appsettings.json",
+              "RelativeToolTip": "heroApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T15:40:36.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\HeroApi\\heroApi\\Domain\\Model\\Hero.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Hero.cs",
+              "ToolTip": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\HeroApi\\heroApi\\Domain\\Model\\Hero.cs",
+              "RelativeToolTip": "Domain\\Model\\Hero.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:45:25.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HeroController.cs",
               "DocumentMoniker": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\HeroApi\\heroApi\\heroApi\\Controllers\\HeroController.cs",
               "RelativeDocumentMoniker": "heroApi\\Controllers\\HeroController.cs",
               "ToolTip": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\HeroApi\\heroApi\\heroApi\\Controllers\\HeroController.cs",
               "RelativeToolTip": "heroApi\\Controllers\\HeroController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwDgAAAAkAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowBUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:30:46.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HeroDto.cs",
-              "DocumentMoniker": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\HeroApi\\heroApi\\heroApi\\Dto\\HeroDto.cs",
-              "RelativeDocumentMoniker": "heroApi\\Dto\\HeroDto.cs",
-              "ToolTip": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\HeroApi\\heroApi\\heroApi\\Dto\\HeroDto.cs",
-              "RelativeToolTip": "heroApi\\Dto\\HeroDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:30:13.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DefaultSqlConnectionFactory.cs",
-              "DocumentMoniker": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\HeroApi\\heroApi\\Repository\\Connection\\DefaultSqlConnectionFactory.cs",
-              "RelativeDocumentMoniker": "Repository\\Connection\\DefaultSqlConnectionFactory.cs",
-              "ToolTip": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\HeroApi\\heroApi\\Repository\\Connection\\DefaultSqlConnectionFactory.cs",
-              "RelativeToolTip": "Repository\\Connection\\DefaultSqlConnectionFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T17:04:11.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T20:30:46.525Z"
             },
             {
               "$type": "Document",
@@ -79,7 +77,7 @@
               "RelativeDocumentMoniker": "Repository\\Repositories\\HeroRepository.cs",
               "ToolTip": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\HeroApi\\heroApi\\Repository\\Repositories\\HeroRepository.cs",
               "RelativeToolTip": "Repository\\Repositories\\HeroRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAQwGEAAAA5AAAA",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAkwGIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T13:53:49.485Z",
               "EditorCaption": ""

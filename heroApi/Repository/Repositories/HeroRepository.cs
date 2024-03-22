@@ -1,11 +1,7 @@
 ﻿using Dapper;
 using Domain.Model;
 using Repository.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Repository.Repositories
 {
@@ -20,8 +16,8 @@ namespace Repository.Repositories
 
         public async Task<bool> DeleteHero(Guid heroId)
         {
-            string sql = "Delete public.hero where HeroId = @HeroId";
-            string sqlFriendHero = "Delete [HeroDB].[dbo].[HeroFriends] where [HeroId] = @HeroId";
+            string sql = "Delete from public.hero where HeroId = @HeroId";
+            string sqlFriendHero = "Delete from public.herofriends where HeroId = @HeroId";
 
             using (var connectionDb = connection.Connection())
             {
@@ -101,7 +97,7 @@ namespace Repository.Repositories
                             {
                                 HeroId = hero.HeroId
                             });
-                        if (result.Any())
+                        if (resultHeroFriend.Any())
                         {
                             foreach (var friend in resultHeroFriend.ToList())
                             {
@@ -111,6 +107,7 @@ namespace Repository.Repositories
                         listHero.Add(hero);
                     }
                 }
+                
             }
             return listHero;
         }

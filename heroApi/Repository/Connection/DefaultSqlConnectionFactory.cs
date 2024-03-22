@@ -9,7 +9,7 @@ namespace Repository.Connection
     {
         public IDbConnection Connection()
         {
-            return new NpgsqlConnection("Server=localhost;Port=5432;Database=HeroDB;User Id=postgres;Password=123456;"); ;
+            return new NpgsqlConnection("Server=localhost;Port=5432;Database=HeroDB1;User Id=postgres;Password=123456;"); ;
          }
     }
 }
